@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+.swiftpm/
+
+# CocoaPods / Carthage (not used, but ignore preemptively)
+Pods/
+Carthage/Build/
+
+# Release artifacts produced by `make zip`
+GridPoint-*.zip
+
+# Editor / tooling
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local tooling config that should not be shared
+.claude/
