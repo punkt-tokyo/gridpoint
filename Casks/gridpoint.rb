@@ -1,6 +1,6 @@
 cask "gridpoint" do
-  version "1.0.0"
-  sha256 "22ad61ce38cfc3dd075e5de6d7030d2aaa85a4695543f59539419b9a1abb50b1"
+  version "1.0.1"
+  sha256 "5ea94cac82091c8dbb23fccc7c64576ce2b9a6424cac5b3e8a4510ca69008797"
 
   url "https://github.com/punkt-tokyo/gridpoint/releases/download/v#{version}/GridPoint-#{version}.zip"
   name "GridPoint"
